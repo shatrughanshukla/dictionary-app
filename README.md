@@ -30,17 +30,20 @@ A simple and interactive Dictionary App that allows users to search for any word
 ## 📂 Project Structure
 
 ```
-📁 dictionary-app/
-├── index.html               ← Main HTML file (entry point)
-├── style.css                ← Styling for the app
-├── script.js                ← JavaScript logic & API calls
-├── README.md                ← Project documentation
-└── 📁 screenshots/          ← Folder containing images used in README
-    ├── search-word.png
-    ├── word-meanings.png
-    ├── synonyms-antonyms.png
-    └── full-app-overview.png
+## 📂 Project Structure
+
+📁 dictionary-app/  
+├── index.html        ← Main HTML file (entry point)  
+├── style.css         ← Styling for the app  
+├── script.js         ← JavaScript logic & API calls  
+├── README.md         ← Project documentation  
+└── 📁 screenshots/   ← Folder containing images used in README  
+    ├── search-word.png  
+    └── word-details.png  
+
 ```
+---
+
 ---
 
 ## 📸 Screenshots
@@ -48,14 +51,8 @@ A simple and interactive Dictionary App that allows users to search for any word
 ### 🔍 Word Search
 ![Search Word](./screenshots/search-word.png)
 
-### 📝 Word Meanings
-![Word Meanings](./screenshots/word-meanings.png)
-
-### 🔄 Synonyms & Antonyms
-![Synonyms Antonyms](./screenshots/synonyms-antonyms.png)
-
-### 🖼 Full App Overview
-![Full App](./screenshots/full-app-overview.png)
+### 📝 Word Meaning + Synonyms & Antonyms
+![Word Details](./screenshots/word-details.png)
 
 ---
 
@@ -65,6 +62,7 @@ A simple and interactive Dictionary App that allows users to search for any word
    ```bash
    git clone https://github.com/shatrughanshukla/dictionary-app.git
    cd dictionary-app
+
 
 
 
