@@ -29,6 +29,7 @@ A simple and interactive Dictionary App that allows users to search for any word
 
 ## 📂 Project Structure
 
+```
 📁 dictionary-app/
 ├── index.html               ← Main HTML file (entry point)
 ├── style.css                ← Styling for the app
@@ -39,10 +40,8 @@ A simple and interactive Dictionary App that allows users to search for any word
     ├── word-meanings.png
     ├── synonyms-antonyms.png
     └── full-app-overview.png
+```
 
-
-
----
 
 ## 📸 Screenshots
 
