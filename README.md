@@ -41,7 +41,6 @@ A simple and interactive Dictionary App that allows users to search for any word
     ├── search-word.png  
     ├── word-details.png   ← Word meanings + synonyms & antonyms  
     └── error-handling.png ← Error state (e.g., word not found)    
-
 ```
 ---
 
