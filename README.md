@@ -67,9 +67,4 @@ A simple and interactive Dictionary App that allows users to search for any word
    cd dictionary-app
 
 
-🌐 API Reference
-
-- **[Dictionary API](https://dictionaryapi.dev/)**
-
-📖 A simple Dictionary App that fetches word meanings, definitions, synonyms, antonyms, and examples using the Dictionary API.
 
