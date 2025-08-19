@@ -39,7 +39,8 @@ A simple and interactive Dictionary App that allows users to search for any word
 ├── README.md         ← Project documentation  
 └── 📁 screenshots/   ← Folder containing images used in README  
     ├── search-word.png  
-    └── word-details.png  
+    ├── word-details.png   ← Word meanings + synonyms & antonyms  
+    └── error-handling.png ← Error state (e.g., word not found)    
 
 ```
 ---
@@ -48,11 +49,14 @@ A simple and interactive Dictionary App that allows users to search for any word
 
 ## 📸 Screenshots
 
-### 🔍 Word Search
+### 🔍 Word Search  
 ![Search Word](./screenshots/search-word.png)
 
-### 📝 Word Meaning + Synonyms & Antonyms
+### 📝 Word Details (Meanings + Synonyms + Antonyms)  
 ![Word Details](./screenshots/word-details.png)
+
+### ⚠️ Error Handling  
+![Error Handling](./screenshots/error-handling.png)
 
 ---
 
