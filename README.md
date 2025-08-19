@@ -62,7 +62,3 @@ A simple and interactive Dictionary App that allows users to search for any word
    ```bash
    git clone https://github.com/shatrughanshukla/dictionary-app.git
    cd dictionary-app
-
-
-
-
