@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+  background-color: #817e7f;
+}
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #504f4f;
+}
+h1 {
+  text-align: center;
+  color: #fdfdfd;
+}
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+#word-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #8a8a8a;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+  background-color: #d8d8d8;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  background: #8d8d8d;
+  color: #fff;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+button:hover {
+  background: #3a3a3a;
+}
+#result {
+  margin-top: 20px;
+  background-color: #9f9f9f;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #060606;
+}
+.meaning {
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #8b8a8a;
+  border-radius: 6px;
+  border-left: 4px solid #363636;
+}
+.word-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #000000;
+}
+.part-of-speech {
+  font-style: italic;
+  color: #000000;
+}
+.definition {
+  margin: 8px 0;
+}
+.example {
+  color: #000000;
+  margin-left: 10px;
+}
+.synonyms,
+.antonyms {
+  color: #007bff;
+  font-size: 0.95rem;
+  margin-left: 10px;
+}
+.error {
+  color: #000000;
+  background: #898686;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+}
