@@ -41,7 +41,7 @@ A simple and interactive Dictionary App that allows users to search for any word
     ├── synonyms-antonyms.png
     └── full-app-overview.png
 ```
-
+---
 
 ## 📸 Screenshots
 
